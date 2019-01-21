@@ -1,0 +1,10 @@
+{
+  "simulation": "techietester.BasicSimulation",
+  "simulationId": "basicsimulation",
+  "start": 1518398466701,
+  "description": "",
+  "scenarios": ["Basic Simulation"],
+  "assertions": [
+
+  ]
+}

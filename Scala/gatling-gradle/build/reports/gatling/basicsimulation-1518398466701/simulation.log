@@ -1,0 +1,4 @@
+RUN	techietester.BasicSimulation		basicsimulation	1518398466701	 	2.0
+USER	Basic Simulation	1	START	1518398468492	1518398468492
+REQUEST	Basic Simulation	1		request_1	1518398468537	1518398469012	OK	 
+USER	Basic Simulation	1	END	1518398468492	1518398474041

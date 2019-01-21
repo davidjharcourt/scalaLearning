@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gatling-gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/gatling-gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gatling-gradle_gatling.iml" filepath="$PROJECT_DIR$/.idea/modules/gatling-gradle_gatling.iml" group="gatling-gradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gatling-gradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gatling-gradle_main.iml" group="gatling-gradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gatling-gradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gatling-gradle_test.iml" group="gatling-gradle" />
+    </modules>
+  </component>
+</project>
