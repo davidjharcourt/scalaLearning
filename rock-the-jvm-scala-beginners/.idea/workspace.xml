@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5db4268-e8bd-4a93-b06a-25712adf7f01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lectures/part1basics/CBNvsCBV.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lectures/part1basics/Recursion.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lectures/part1basics/DefaultArgs.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lectures/part1basics/StringOps.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lectures/part1basics/Functions.scala" afterPath="$PROJECT_DIR$/src/lectures/part1basics/Functions.scala" />
     </list>
     <ignored path="rock-the-jvm-scala-beginners.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,71 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JavaPlayground.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/playground/JavaPlayground.java">
+      <file leaf-file-name="DefaultArgs.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/DefaultArgs.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="357">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScalaPlayground.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/playground/ScalaPlayground.scala">
+      <file leaf-file-name="StringOps.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/StringOps.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValuesVariablesTypes.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/ValuesVariablesTypes.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Expressions.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/Expressions.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="66" column="48" selection-start-line="66" selection-start-column="48" selection-end-line="66" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Functions.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/Functions.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Recursion.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/Recursion.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="88" column="22" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CBNvsCBV.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/CBNvsCBV.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state relative-caret-position="592">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -124,6 +73,8 @@
         <option value="$PROJECT_DIR$/src/lectures/part1basics/Functions.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part1basics/Recursion.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part1basics/CBNvsCBV.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part1basics/DefaultArgs.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part1basics/StringOps.scala" />
       </list>
     </option>
   </component>
@@ -238,47 +189,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.CBNvsCBV">
-    <configuration default="false" name="ScalaPlayground" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="playground.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="playground.ScalaPlayground" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="rock-the-jvm-scala-beginners" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Expressions" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Expressions" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="rock-the-jvm-scala-beginners" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.StringOps">
     <configuration default="false" name="Functions" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -327,6 +238,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lectures.part1basics.CBNvsCBV" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="rock-the-jvm-scala-beginners" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DefaultArgs" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.DefaultArgs" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="rock-the-jvm-scala-beginners" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="StringOps" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.StringOps" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -753,19 +704,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ScalaPlayground" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Expressions" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Functions" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Recursion" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CBNvsCBV" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Functions" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Recursion" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CBNvsCBV" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DefaultArgs" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StringOps" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CBNvsCBV" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Recursion" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Functions" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Expressions" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ScalaPlayground" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StringOps" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DefaultArgs" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CBNvsCBV" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Recursion" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -802,7 +753,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553384231402</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New Scala lesson">
+      <created>1553815199028</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553815199028</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1031,6 +989,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/DefaultArgs.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/StringOps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding />
         </state>
       </provider>
