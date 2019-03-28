@@ -49,7 +49,7 @@ object Functions extends App{
   println(aGreetingFunction("David", 39))
 
   def aFactorialFunction(aNum: Int): Int = {
-    if (aNum <= 0) 1
+    if (aNum <= 1) 1
     else aNum * aFactorialFunction(aNum-1)
   }
 
